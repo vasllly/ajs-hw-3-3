@@ -1,0 +1,26 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasllly/ajs-hw-3-3.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Vasllly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasllly/ajs-hw-3-3/issues"
+  },
+  "homepage": "https://github.com/vasllly/ajs-hw-3-3#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
