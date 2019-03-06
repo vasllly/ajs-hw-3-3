@@ -1,4 +1,4 @@
-import Character from './domain';
+import Character from './domain.mjs';
 
 class Game {
   start() {
